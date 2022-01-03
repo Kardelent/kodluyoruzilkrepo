@@ -4,7 +4,7 @@ Bu repo [kodluyoruz](https://www.kodluyoruz.org/) GIT eğitiminde oluşturduğum
 
 
 ## Installation
----------------------------------------------------------------
+
 Öncelikle projeyi clonelayın.
 
 git clone https://github.com/Kardelent/kodluyoruzilkrepo.git
