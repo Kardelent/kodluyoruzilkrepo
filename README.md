@@ -1,7 +1,8 @@
 # Kodluyoruz Ilk Repo
-Bu repo [kodluyoruz](https://www.kodluyoruz.org/) GIT eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de indeks.html barındırıyor.
+Bu repo [kodluyoruz](https://www.kodluyoruz.org/) 
+GIT eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de indeks.html barındırıyor.
 
-![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2F%40kodluyoruz&psig=AOvVaw3Cf5QMLhkCAiPjWdXuQdZN&ust=1641318926473000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCIC5kM-TlvUCFQAAAAAdAAAAABAD)
+![](https://camo.githubusercontent.com/3adf78c0e6f1b1cdebba9477d4363bf25bb7e1afc8d4415088e213e03012002f/68747470733a2f2f7777772e747066756e642e6f72672f77702d636f6e74656e742f75706c6f6164732f323031392f30372f6c6f676f2d312e706e67)
 
 
 ## Installation
